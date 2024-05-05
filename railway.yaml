@@ -1,0 +1,5 @@
+plugins:
+  - name: 'java'
+    inputs:
+      - name: 'app'
+        default: 'mvn spring-boot:run'
